@@ -9,7 +9,7 @@ public class Main{
 
         System.out.println("intriduzca tu nombre : ");
         String texto = sc.nextLine();
-        System.out.println("bienvenido "+texto);
+        System.out.println("bienvenido/a "+texto+" a nueva branch de fiture-test");
 
         sc.close();
     }
