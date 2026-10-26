@@ -10,7 +10,8 @@ public class Main{
         System.out.println("intriduzca tu nombre : ");
         String texto = sc.nextLine();
         System.out.println("bienvenido "+texto +" a la programa de java");
-
+        
+        System.out.println("Nuevo cambio hecho por cesar");
         sc.close();
     }
 
